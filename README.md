@@ -10,13 +10,13 @@
 Bunun yapmamım sebebi işlem uzun sürdüğü için hesaplama işlemlerini txt dosyalarında linlkeri çekerek yaptım.
 
 ## Kullanlın Kütüphaneler
-import re
-import pandas as pd
-import requests
-from bs4 import BeautifulSoup
-import os
-import csv
-import networkx as nx
-from urllib.parse import urljoin
-import matplotlib.pyplot as plt
-from urllib.parse import urlparse
+- import re
+- import pandas as pd
+- import requests
+- from bs4 import BeautifulSoup
+- import os
+- import csv
+- import networkx as nx
+- from urllib.parse import urljoin
+- import matplotlib.pyplot as plt
+- from urllib.parse import urlparse
