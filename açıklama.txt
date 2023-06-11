@@ -1,0 +1,2 @@
+soru_2.py dosyasındaki yorum kısmı ana sayfayı ve tüm alt sayfaları bulup txt dosyalarına yazdıran kısımdır.
+Bunun yapmamım sebebi işlem uzun sürdüğü için hesaplama işlemlerini txt dosyalarında linlkeri çekerek yaptım.
