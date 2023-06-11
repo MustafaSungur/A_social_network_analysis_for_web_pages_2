@@ -1,7 +1,7 @@
 # A_social_network_analysis_for_web_pages_2
 * Dokuz Eylül Üniversitesi web sayfalarına yönelik bir sosyal ağ analizi ve bu sonuçların görselleştirmesi yapıldı. 
 * https://www.deu.edu.tr/ ana sayfası ve altındaki tüm sayfalar ve buradaki tüm veriler kapsamdadır.
-* 
+
 * Web sayfası bazlı üç centrality analizi yapılacaktır; Degree Centrality, Betweenness 	Centrality, Closeness Centrality. 
 ** Bu üç centrality analizi sonucu tüm web sayfaları en yüksekten en düşüğe tabloda sıralandı ve centrality_results dosyasına kaydedildi.
 ** Bu üç centrality analizi sonuçları, veri görselleştirmesi yapıldı ekran görüntüleri Grafikler dosyasına kaydedildi.
